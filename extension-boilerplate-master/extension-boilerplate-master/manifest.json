@@ -14,10 +14,7 @@
     ]
   },
   "permissions": [
-    "tabs",
-    "storage",
-    "http://*/*",
-    "https://*/*"
+    "activeTab"
   ],
   "options_ui": {
     "page": "options.html"
